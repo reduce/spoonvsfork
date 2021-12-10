@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-135.000000, -133.000000)">
+            <g id="Group" transform="translate(135.000000, 133.000000)">
+                <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                <path d="M16.0443291,24.1186102 C19.6795128,24.1186102 21.8540335,22.1307907 21.8540335,18.572484 L21.8540335,7.97444089 L17.8344649,7.97444089 L17.8344649,18.5505192 C17.8344649,19.95627 17.1865016,20.7140575 16.0003994,20.7140575 C14.8472444,20.7140575 14.1114217,19.9233227 14.1004393,18.6603435 L10.2236422,18.6603435 C10.2236422,22.0209665 12.4860224,24.1186102 16.0443291,24.1186102 Z" id="J" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

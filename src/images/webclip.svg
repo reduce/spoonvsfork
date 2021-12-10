@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group Copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-304.000000, -333.000000)">
+            <g id="Group-Copy" transform="translate(304.000000, 333.000000)">
+                <rect id="Rectangle" fill="#000000" x="0" y="0" width="256" height="256"></rect>
+                <path d="M128.354633,192.948882 C157.436102,192.948882 174.832268,177.046326 174.832268,148.579872 L174.832268,63.7955272 L142.675719,63.7955272 L142.675719,148.404153 C142.675719,159.65016 137.492013,165.71246 128.003195,165.71246 C118.777955,165.71246 112.891374,159.386581 112.803514,149.282748 L81.7891374,149.282748 C81.7891374,176.167732 99.8881789,192.948882 128.354633,192.948882 Z" id="J" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
